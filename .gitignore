@@ -1,0 +1,9 @@
+*.class
+.DS_Store
+out
+bin
+eclipse
+
+# Package Files #
+*.war
+*.ear
