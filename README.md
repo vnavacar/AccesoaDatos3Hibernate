@@ -1,13 +1,6 @@
-java-hibernate
-==============
+AccesoaDatos3Hibernate
 
-Ejemplos de programación con Bases de Datos en Java utilizando Hibernate
-
-- **CRUDHibernate**: Aplicación que muestra las operaciones básicas (CRUD) sobre una Base de Datos utilizando Hibernate
-- **Cine**: Primera versión de una aplicación de gestión de datos utilizando Hibernate
-- **Cine_v2**: Aplicación de gestión de datos utilizando Hibernate
-- **HibernateRelacion1a1**: Cómo mapear una relación 1 a 1 utilizando Hibernate en Java
-- **HibernateRelacion1aN**: Cómo mapear una relación 1 a N utilizando Hibernate en Java
-- **HibernateRelacionNaN**: Cómo mapear una relación N a N utilizando Hibernate en Java
-- **HolaHibernate**: Ejemplo básico para comenzar a utilizar Hibernate
-- **gestion**: Aplicación ejemplo de gestión de pedidos realizada utilizando Hibernate
+Parte 1 Github: https://github.com/vnavacar/AccesoADatos
+Parte 2 Github: https://github.com/vnavacar/AccesoaDatos2jdbc
+Parte 3 Github: https://github.com/vnavacar/AccesoaDatos3Hibernate
+Parte 4 Github: https://github.com/vnavacar/AccesoaDatos4MongoDB
